@@ -1,0 +1,160 @@
+[
+  {
+    "questionNo": "",
+    "question": "Anny is working on a tile pattern and needs to know which shape comes next. Can you help her complete it?<br><img width='95%' src='./images/1.png'>",
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny's design sequence is missing a shape. Which shape comes next to complete the pattern?<br><img width='95%' src='./images/2.png'>",
+    
+    "optionsImages": [
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "In her latest project, Anny noticed a gap in the sequence. What shape should go next?<br><img width='95%' src='./images/3.png'>",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/6.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny is arranging tiles but one is missing. Can you figure out which shape comes next?<br><img width='95%' src='./images/4.png'>",
+    "optionsImages": [
+      "./images/31.jpg",
+      "./images/32.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "To finish her beautiful layout, Anny needs to know which shape fits in the empty box. Can you help her?<br><img width='95%' src='./images/5.png'>",
+    
+    "optionsImages": [
+      "./images/7.jpg",
+      "./images/8.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": " Anny’s tile pattern is incomplete. Which shape should come next to keep the pattern going?<br><img width='95%' src='./images/6.png'>",
+    "optionsImages": [
+      "./images/9.jpg",
+      "./images/10.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny has designed a repeating sequence, but one shape is missing. Can you identify the next shape?<br><img width='95%' src='./images/7.png'>",
+    
+    "optionsImages": [
+      "./images/11.jpg",
+      "./images/12.jpg"
+    ],
+    "correct":1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny is finalising her project and needs help identifying the next shape in the sequence. What shape comes next?<br><img width='95%' src='./images/8.png'>",
+    
+    "optionsImages": [
+      "./images/13.jpg",
+      "./images/14.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "While creating a new design, Anny found a missing piece in the sequence. Which shape completes the pattern?<br><img width='95%' src='./images/9.png'>",
+    "optionsImages": [
+      "./images/15.jpg",
+      "./images/16.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Anny’s wall design is almost complete, but a shape is missing. Can you figure out which one comes next?<br><img width='95%' src='./images/10.png'>",
+    
+    "optionsImages": [
+      "./images/17.jpg",
+      "./images/18.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  
